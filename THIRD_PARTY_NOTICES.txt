@@ -1,0 +1,35 @@
+NLCurrent2GRIB V0.2.1 – Drittanbieterhinweise
+=============================================
+
+Die portable Windows-Ausgabe bündelt Laufzeitbestandteile folgender Projekte:
+
+- Python 3.12
+  Python Software Foundation License Version 2
+  Lizenztext: licenses/Python-3.12-PSF-License.txt
+
+- ECMWF ecCodes 2.47.0 einschließlich eccodeslib
+  Apache License 2.0
+  Lizenztext: licenses/ECMWF-ecCodes-Apache-2.0.txt
+
+- NumPy 2.5.1
+  BSD-3-Clause License; NumPy enthält weitere Komponenten mit eigenen
+  Hinweisen, die im vollständigen NumPy-Lizenztext aufgeführt sind.
+  Lizenztext: licenses/NumPy-BSD-3-Clause.txt
+
+- tkinterdnd2 0.6.2 / TkDND
+  MIT License; die Binärpakete beruhen auf TkDND/Tcl-Tk.
+  Lizenztext: licenses/tkinterdnd2-MIT.txt
+
+- Tcl/Tk
+  Tcl/Tk License
+  Lizenztext: licenses/Tcl-Tk-License.terms
+
+- PyInstaller 6.21.0
+  GPL Version 2 mit besonderer Bootloader-Ausnahme. Die Ausnahme erlaubt
+  die Weitergabe der erzeugten Anwendung unabhängig von der PyInstaller-
+  Lizenz.
+  Lizenztext: licenses/PyInstaller-GPL-2.0-Bootloader-Exception.txt
+
+Die Lizenz von NLCurrent2GRIB selbst befindet sich in der Datei LICENSE.
+Weitere Lizenztexte der von ecCodes gebündelten nativen Bibliotheken liegen
+unter licenses/ecCodes-bundled-libraries.

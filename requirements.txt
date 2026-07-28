@@ -1,0 +1,4 @@
+eccodes==2.47.0
+numpy==2.5.1
+pyinstaller==6.21.0
+tkinterdnd2==0.6.2
