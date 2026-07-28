@@ -1,8 +1,12 @@
 # NLCurrent2GRIB V0.2.1
 
-Windows-Konverter für amtliche niederländische XML-Strömungsvorhersagen.
+Windows-Konverter für niederländische XML-Strömungsvorhersagen.
 Die Anwendung erzeugt regionale GRIB2-Dateien zur Darstellung der
 Oberflächenströmung in QtVlm und OpenCPN.
+.
+.
+.
+<img width="845" height="548" alt="Screenshot 2026-07-28 212238" src="https://github.com/user-attachments/assets/204b4674-45e0-4aa1-9802-9e870739a4d6" />
 
 ## Funktionen
 
