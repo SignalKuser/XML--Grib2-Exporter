@@ -18,7 +18,7 @@ Oberflächenströmung in QtVlm und OpenCPN.
 - Umrechnung von Geschwindigkeit in Knoten und Richtung in U/V-Komponenten
 - Missing-Value-Maske gegen großflächige Extrapolation
 - Kommandozeilenbetrieb über `convert_cli.py`
-
+# NLCurrent2GRIB V0.2.5
 ## Build unter Windows
 
 Python muss installiert und über den in den Skripten angegebenen Befehl
