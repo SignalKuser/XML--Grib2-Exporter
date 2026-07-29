@@ -19,6 +19,9 @@ Oberflächenströmung in QtVlm und OpenCPN.
 - Missing-Value-Maske gegen großflächige Extrapolation
 - Kommandozeilenbetrieb über `convert_cli.py`
 # NLCurrent2GRIB V0.2.5
+
+<img width="842" height="727" alt="Screenshot 2026-07-29 203906" src="https://github.com/user-attachments/assets/db66ad3a-6145-44eb-b135-0f9ac1978d2f" />
+
 ## Build unter Windows
 
 Python muss installiert und über den in den Skripten angegebenen Befehl
