@@ -22,7 +22,10 @@ Oberflächenströmung in QtVlm und OpenCPN.
 
 <img width="842" height="727" alt="Screenshot 2026-07-29 203906" src="https://github.com/user-attachments/assets/db66ad3a-6145-44eb-b135-0f9ac1978d2f" />
 
-## Build unter Windows
+# NLCurrent2GRIB__multi_v.026
+
+
+<img width="839" height="724" alt="Screenshot 2026-08-05 124524" src="https://github.com/user-attachments/assets/79b3de10-20ae-43c4-b0cc-d45f34c2523e" />
 
 Python muss installiert und über den in den Skripten angegebenen Befehl
 erreichbar sein.
