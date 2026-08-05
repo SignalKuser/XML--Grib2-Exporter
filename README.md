@@ -27,6 +27,27 @@ Oberflächenströmung in QtVlm und OpenCPN.
 
 <img width="839" height="724" alt="Screenshot 2026-08-05 124524" src="https://github.com/user-attachments/assets/79b3de10-20ae-43c4-b0cc-d45f34c2523e" />
 
+## Funktionen
+
+- grafische Oberfläche mit Drag-and-drop
+- frei wählbarer Ausgabeordner
+- strikte Verarbeitung der UTC-Zeitstempel
+- automatische regionale Gruppierung
+- getrennte GRIB2-Dateien je Region
+- Umrechnung von Geschwindigkeit in Knoten und Richtung in U/V-Komponenten
+- Missing-Value-Maske gegen großflächige Extrapolation
+- Kommandozeilenbetrieb über `convert_cli.py`
+- reaktionsfähiges Einlesen im Hintergrund mit Dateifortschritt
+- Abbruchmöglichkeit beim Einlesen großer XML-Sammlungen
+- getrennte, stets sichtbare Pfadzeilen für Eingabe und Ausgabe
+- GRIB2-Erzeugung erst nach erfolgreicher Prüfung und gewähltem Ausgabeordner
+- reaktionsfähige GRIB2-Erzeugung im Hintergrund mit Fortschrittsanzeige
+- Abbruch der GRIB2-Erzeugung mit Entfernung unvollständiger Teildateien
+- wählbares GRIB-Zeitintervall ohne Glättung der amtlichen Eingangswerte
+- wählbarer Rasterabstand in nautischen Meilen mit Erklärung im Hauptfenster
+- mehrsprachige Oberfläche: Deutsch, Englisch, Niederländisch, Französisch und Spanisch
+- Sprachumschaltung über ein Pulldown-Menü ohne Neustart
+
 Python muss installiert und über den in den Skripten angegebenen Befehl
 erreichbar sein.
 
