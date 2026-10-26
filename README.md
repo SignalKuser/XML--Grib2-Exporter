@@ -27,6 +27,13 @@ Oberflächenströmung in QtVlm und OpenCPN.
 
 <img width="839" height="724" alt="Screenshot 2026-08-05 124524" src="https://github.com/user-attachments/assets/79b3de10-20ae-43c4-b0cc-d45f34c2523e" />
 
+
+## Neue Version ohne Python, nur 64kb gross:
+## NLCurrent2GRIB__multi_v.028
+
+<img width="836" height="726" alt="Screenshot 2026-10-26 184450" src="https://github.com/user-attachments/assets/c7cd1151-2595-4dc9-8fd2-0235ac75c53a" />
+
+
 ## Funktionen
 
 - grafische Oberfläche mit Drag-and-drop
